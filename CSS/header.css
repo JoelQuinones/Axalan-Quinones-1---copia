@@ -2,7 +2,7 @@ body{
 	background-color: rgba(158,31,0,1);
 }
 .header{
-	background-color: #1f1f21;
+	background-color: red;
 }
 .header__beginning{
 	display: flex;
